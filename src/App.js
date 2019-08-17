@@ -10,6 +10,8 @@ export default function App() {
   return (
     <main>
       <Header />
+      <CharacterList />
+      <LocationList />
       <EpisodeList />
     </main>
   );
